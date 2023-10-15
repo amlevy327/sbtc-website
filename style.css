@@ -62,7 +62,7 @@ label {
 
 .business-area {
   background: #010203;
-  padding: 50px 0 20px 0;
+  padding: 50px 0;
 }
 
 .business-main {
@@ -98,7 +98,7 @@ label {
   font-weight: 500;
   font-size: 18px;
   color: #ffffff;
-  margin-top: 13px;
+  margin-top: 15px;
   line-height: 25px;
 }
 
@@ -111,8 +111,9 @@ label {
   border-radius: 5px;
   padding: 10px 10px;
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 15px;
   transition: 0.2s all ease;
+  border: 2px solid #ffffff;
 }
 
 .business-main a:hover {
@@ -122,7 +123,7 @@ label {
 /* artificial-section */
 .artificial-area {
   background: #ffffff;
-  padding: 40px 0;
+  padding: 50px 0;
 }
 
 .artificial-colm {
@@ -177,7 +178,6 @@ label {
   display: inline-block;
   margin-top: 10px;
   transition: 0.2s all ease;
-  border: 2px solid #000000;
   margin-top: 30px;
 }
 
