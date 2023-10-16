@@ -13,7 +13,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 400;
-  color: #000000;
+  color: #010203;
   background: #ffffff;
 }
 
@@ -108,7 +108,7 @@ label {
   font-size: 18px;
   color: #ffffff;
   background: #0084E1;
-  border-radius: 5px;
+  border-radius: 8px;
   padding: 10px 10px;
   display: inline-block;
   margin-top: 15px;
@@ -142,7 +142,7 @@ label {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 25px;
-  color: #000000;
+  color: #010203;
   margin-top: 30px;
 }
 
@@ -158,7 +158,7 @@ label {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  color: #181818;
+  color: #010203;
   margin-top: 20px;
 }
 
@@ -176,9 +176,9 @@ label {
   border-radius: 8px;
   padding: 10px 10px;
   display: inline-block;
-  margin-top: 10px;
   transition: 0.2s all ease;
   margin-top: 30px;
+  border: 2px solid #010203;
 }
 
 .artificial-btn a:hover {
@@ -195,7 +195,7 @@ label {
   }
 
   .artificaial-item {
-    margin-top: 30px;
+    margin-top: 0px;
   }
 
 }
@@ -208,7 +208,7 @@ label {
   }
   
   .artificaial-item {
-    margin-top: 20px;
+    margin-top: 0px;
   }
 
 }
