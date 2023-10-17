@@ -123,7 +123,7 @@ label {
 /* artificial-section */
 .artificial-area {
   background: #ffffff;
-  padding: 50px 0;
+  padding: 0px 0;
 }
 
 .artificial-colm {
@@ -132,6 +132,7 @@ label {
 
 .artificaial-item {
   text-align: center;
+  margin-top: 50px
 }
 
 .artificaial-item img {
@@ -189,15 +190,10 @@ label {
 
 /*FOR-TABLATE-START*/
 @media screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   .artificial-colm {
       width: 50%;
   }
-
-  .artificaial-item {
-    margin-top: 0px;
-  }
-
 }
 
 /*FOR-MOBIL-START*/
@@ -206,11 +202,6 @@ label {
   .artificial-colm {
       width: 100%;
   }
-  
-  .artificaial-item {
-    margin-top: 0px;
-  }
-
 }
 
 
